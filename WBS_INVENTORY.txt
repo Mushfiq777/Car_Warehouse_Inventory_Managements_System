@@ -1,0 +1,8 @@
+122	23	22	33	134	
+A100	1100	AS	24	S001	
+A120	28	ES	6	S002	
+B120	9	PS	4	SOO5	
+C230	22	PS	8	S001	
+D890	78	PS	0	SOO4	
+d	sd	sd	sd	sd	
+dsf	fds	fds	dfs	dsf	
